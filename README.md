@@ -2,7 +2,8 @@
 
 Here are my conference talks I'm currently submitting:
 
-- [TBD](#TBD)
+- [Component Communications](src/component-communications.md)
+- [Testing in Ember](src/testing-in-ember.md)
 
 ## Current Bio
 
